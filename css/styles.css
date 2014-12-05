@@ -39,7 +39,7 @@ img.grayscale {
 }
 
 .scroll-top {
-  background-color:#33ee67;
+  background-color:#eee;
 }
 
 .header .btn-lg {
@@ -60,16 +60,16 @@ img.grayscale {
 }
 
 .navbar-bold.affix {
-  background-color:#33ee67;
+  background-color:#609CCF;
 }
 
 .navbar-bold {
-  background-color:#11cc45;
+  background-color:#609CCF;
   font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 
 .navbar-bold li a:hover, .navbar-bold li.active {
-  background-color:#22dd56;
+  background-color:#426C90;
 }
 
 .vert {
@@ -95,7 +95,7 @@ img.grayscale {
 
 .header {
   height: 80%;
-  background: #11cc45 url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center fixed;
+  background: #98B2C8 url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center fixed;
 }
 
 .blurb {
@@ -139,7 +139,8 @@ img.grayscale {
 }
 
 .callout {
-  color: #ffffff;
+  /*color: #426C90;*/
+  color: #fff;
   padding-top:7%;
   height: 100%;
   width: 100%;
@@ -166,5 +167,17 @@ img.grayscale {
 footer {
   padding: 100px 0;
 }
+
+
+.panel-body {
+padding: 15px;
+background-color: #98B9D5;
+}
+
+.text-success {
+color: #426C90;
+}
+
+.iframe { border: 0; }
 
 /* -- end custom css for Bootstrap 3.x --*/
