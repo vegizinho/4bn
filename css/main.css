@@ -36,3 +36,7 @@ body
 	background-color: #333333;
 	text-align: center;
 }
+
+a { text-decoration: none; }
+
+.btn.a:hover { text-decoration: none; }
